@@ -1,1 +1,1 @@
-tensorflow==1.12.3
+tensorflow==2.3.1
